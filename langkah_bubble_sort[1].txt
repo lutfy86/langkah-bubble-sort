@@ -1,0 +1,7 @@
+Langkah - langkah melakukan bubble sort (pengurutan gelembung)
+
+	1.Bandingkan data ke -i dengan data ke (i+1).Jika tidak sesuai maka ditukar.
+	2.Bandingkan data ke (i+1) dengan data ke (i+2) dan seterusnya.
+	3.Selesaikan satu iterasi data dg cara membandingkan antara n-1 dengan n.
+	4.Lanjutkan iterasi berikutnya sesuai dengan aturan ke-1,mulai dari data ke-1,ke-2,dst.
+	5.Prose akan berhenti jika tidak ada pertukaran dalam satu iterasi.
